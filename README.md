@@ -1,4 +1,3 @@
-```markdown
 # 🐛 Caterpillar Game
 
 A simple and fun caterpillar game built using Python's Turtle module. Guide the caterpillar to eat leaves and grow longer while avoiding the game boundaries!
@@ -48,7 +47,4 @@ No external dependencies are required.
 ## 🤝 Contributing
 
 Want to improve this game? Feel free to fork this repository and submit a pull request! Contributions are always welcome. 🚀
-
-### 💡 Have fun playing the Caterpillar Game! 🎮
-```
 
